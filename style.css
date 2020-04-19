@@ -1,6 +1,8 @@
 div {
     border: solid;
     width: 200px;
+    padding: 20px;
+
 }
 
 div:hover {
