@@ -1,0 +1,8 @@
+div {
+    border: solid;
+    width: 200px;
+}
+
+div:hover {
+    background: orange;
+}
